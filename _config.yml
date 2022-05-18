@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: marshall.s.lee@gmail.com
   facebook:
   flickr:
   github: marshallslee/marshallslee.github.io
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss:
   twitter: marshalliser
-  stackoverflow: https://stackoverflow.com/users/7041135/marshallslee
+  stackoverflow: users/7041135/marshallslee
   youtube:
   googleplus:
 
